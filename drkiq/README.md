@@ -145,6 +145,8 @@ Run the following command to initialize the project:
 docker compose up
 ```
 
+your app will be running in localhost:8020
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
